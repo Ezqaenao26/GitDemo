@@ -4,3 +4,5 @@ http://blog.csdn.net/ownfire/article/details/41314465
 设置了每次pull 和 push 不用输入帐号和密码
 
 尝试这个在网上被编辑后。本地会怎样！
+
+我再试试!
