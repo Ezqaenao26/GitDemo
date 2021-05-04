@@ -1,4 +1,6 @@
-�������Ͻ��ܣ�
+根据网上介绍：
 http://blog.csdn.net/ownfire/article/details/41314465
 
-������ÿ��pull �� push ���������ʺź�����
+设置了每次pull 和 push 不用输入帐号和密码
+
+尝试这个在网上被编辑后。本地会怎样！
